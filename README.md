@@ -1,10 +1,8 @@
-# Threat-modelling
-
-threat modelling, stride
+# Threat-modelling, STRIDE
 
 Worlds shortes introduction: <https://www.youtube.com/watch?v=2pvprvsr1lo&list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf>
 
-STRIDE in 20 min <https://www.youtube.com/watch?v=rEnJYNkUde0>
+## Data flow Diagram
 
 Data flow Diagram DFD3: <https://github.com/adamshostack/DFD3>
 - external entities
@@ -13,3 +11,15 @@ Data flow Diagram DFD3: <https://github.com/adamshostack/DFD3>
 - data stores
 - trust boundry
 
+## STRIDE
+
+STRIDE helps us be structured in how we think about threats
+
+. Spoofing
+. Tampering
+· Repudiation
+. Information Disclosure
+. Denial of Service
+· Elevation of Privileges
+
+STRIDE in 20 min <https://www.youtube.com/watch?v=rEnJYNkUde0>
